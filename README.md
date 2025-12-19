@@ -2,7 +2,7 @@
 
 
 
-This repository contains the Bachelor’s Thesis *“Estimación de canal conjunta para escenarios vehiculares con ISAC”* developed as part of the BSc in Telecommunication Technologies Engineering at Universidad Carlos III de Madrid (2024).
+This repository contains the Bachelor’s Thesis *“Estimación de canal conjunta para escenarios vehiculares con ISAC”* developed as part of my BSc in Telecommunication Technologies Engineering at Universidad Carlos III de Madrid (2024).
 
 The work presents the design and evaluation of an uplink Vehicle-to-Infrastructure (V2I) ISAC system based on Orthogonal Time Frequency Space (OTFS) modulation. By exploiting the delay–Doppler domain, the proposed system enables joint data communication, channel estimation, and sensing (vehicle distance and velocity) in high-mobility environments.
 
