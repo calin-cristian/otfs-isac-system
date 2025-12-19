@@ -1,6 +1,6 @@
-# otfs-isac-system
+# **OTFS-Based Integrated Sensing and Communication System for Vehicular Networks**
 
-**OTFS-Based Integrated Sensing and Communication System for Vehicular Networks**
+
 
 This repository contains the Bachelor’s Thesis *“Estimación de canal conjunta para escenarios vehiculares con ISAC”* developed as part of the BSc in Telecommunication Technologies Engineering at Universidad Carlos III de Madrid (2024).
 
