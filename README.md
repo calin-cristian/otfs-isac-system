@@ -24,7 +24,7 @@ Vehicular networks operating under high mobility suffer from severe Doppler effe
 - Block-based pilot allocation enabling multi-user identification
 - Joint delay–Doppler channel estimation for integrated communication and sensing
 
-### Key Contributions
+### Contributions
 - Design of a structured pilot placement scheme for multi-user OTFS uplink transmissions
 - Joint recovery of transmitted data and sensing parameters (delay and Doppler)
 - Performance analysis highlighting trade-offs between pilot power, spectral efficiency, and reliability
