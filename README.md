@@ -29,5 +29,5 @@ Vehicular networks operating under high mobility suffer from severe Doppler effe
 
 ### Results Summary
 Simulation results show reliable system performance in medium-to-high SNR regimes, with clear trade-offs between pilot power and spectral efficiency. The delay–Doppler representation enables effective joint communication and sensing without dedicated radar waveforms.
-Universidad Carlos III de Madrid
+
 
